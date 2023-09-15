@@ -3,7 +3,7 @@
  
 # Analog-to-Digital Converter (ADC) - Single Conversion Using AVR128DA48 Microcontroller
 
-In this application, the ADC will perform single conversions, and the results will be transmitted through Universal Synchronous/Asynchronous Receiver/Transmitter (USART).
+In this application, the Analog-to-Digital Converter will perform single conversions, and the results will be transmitted through Universal Synchronous/Asynchronous Receiver/Transmitter (USART).
 The software diagram of this application is presented in the figure below.
 <br><img src="images/soft_diagram.jpg" width="200">
 
@@ -25,12 +25,12 @@ The software diagram of this application is presented in the figure below.
 - Curiosity Nano Base for Click boards™ [(AC164162)](https://www.microchip.com/developmenttools/ProductDetails/AC164162)
   <br><img src="images/Curiosity-Nano-Adapter.jpg" width="400">
 
-- [One POT click board](https://www.mikroe.com/pot-click)
+- [One POT Click board](https://www.mikroe.com/pot-click)
   <br><img src="images/pot-click.jpg" width="350">
 
 ## Setup
 
-The AVR128DA48 Curiosity Nano Development Board is used as the test platform. To integrate the POT Click board, the Curiosity Nano Base for Click boards is used.
+The AVR128DA48 Curiosity Nano Development board is used as the test platform. To integrate the POT Click board, the Curiosity Nano Base for Click boards is used.
 
 <br><img src="images/AVR128DA48_CNANO_instructions.png" width="500">
 
@@ -43,7 +43,7 @@ The AVR128DA48 Curiosity Nano Development Board is used as the test platform. To
 
 ## Demo
 
-   - Open the Data Visualizer
+   - Open Data Visualizer
 <br><img src="images/0_3.png" width="600">
    - From the Curiosity Nano COMn port, open the drop down list:
 <br><img src="images/1.png">
